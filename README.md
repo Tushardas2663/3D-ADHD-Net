@@ -19,7 +19,7 @@ The project consists of the following files:
 | File | Description |
 | :--- | :--- |
 | `preprocessing.py` | **Data Pipeline.** Interpolates 19-channel EEG signals onto 8x8 topographical grids with subject-wise handling. |
-| `3D-ADHD_Net.py` | **Model Architecture.** Defines the hybrid 3D CNN-BiLSTM-Transformer model and provides information about the training loop with subject-independent cross-validation for data leakage prevention. |
+| `3D-ADHD_Net_Model.py` | **Model Architecture.** Defines the hybrid 3D CNN-BiLSTM-Transformer model and provides information about the training loop with subject-independent cross-validation for data leakage prevention. |
 | `DeepTrace.py` | **Explainability Algorithm.** The class implementation of the DeepTrace algorithm, including balanced cohort selection and recursive sign-aligned tracing. |
 
 ---
