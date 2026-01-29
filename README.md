@@ -2,7 +2,7 @@
 
 Official implementation of the paper **"3D ADHD-Net: Decoding ADHD from EEG with Neurophysiological Insights"**.
 
-## 📌 Overview
+##  Overview
 This repository contains the source code for **3D ADHD-Net**, a topology-aware deep learning framework for diagnosing ADHD from EEG data, and **DeepTrace**, a novel hierarchical explainability method designed to discover neurophysiological biomarkers.
 
 ### Key Features
@@ -12,7 +12,7 @@ This repository contains the source code for **3D ADHD-Net**, a topology-aware d
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 The project consists of the following files:
 
